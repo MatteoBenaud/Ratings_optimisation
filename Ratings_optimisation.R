@@ -1,4 +1,4 @@
-#################################
+################################# test edits
 ## Ce package contient les fonctions necessaires à l'étude des ratings pour le triathlon.
 ## Les fonctions ont été généralisées au maximum pour rendre leur utilisation fonctionnelle pour n'importe quel sport.
 ## Néanmoins, des modifications du code peuvent être nécessaire pour l'adapter à votre utilisation et vos données.
