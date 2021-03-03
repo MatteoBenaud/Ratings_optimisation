@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # test edit
+=======
+
+>>>>>>> 71e54c5f01200e4b3be5493e4ecf30bd92560153
 
 # Projet ratings Triathlon
 
